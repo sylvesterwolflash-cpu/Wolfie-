@@ -1,18 +1,34 @@
 # 🐺 Wolfie
 
-Wolfie is an open-source, offline-first Android AI assistant.
+> Your offline-first Android AI assistant.
 
-## Goals
+## Vision
 
-- Offline voice assistant
-- Phone automation
-- Daily planner
-- Gaming mode
-- Battery optimizer
-- ChatGPT integration (online)
+Wolfie is an open-source Android assistant designed to work offline first while becoming smarter whenever an internet connection is available.
+
+Unlike most assistants, Wolfie focuses on:
+
+- Privacy
+- Performance
+- Simplicity
+- Offline functionality
+- Open-source collaboration
+
+## Features
+
+- 🎤 Voice Assistant
+- 📅 Daily Planner
+- 🎮 Gaming Mode
+- 🔋 Battery Monitor
+- 📝 Smart Notes
+- 🤖 AI Chat (Online)
+- 🌙 Sleep Routine
+- ☀️ Morning Routine
 
 ## Status
 
-🚧 Under development
+🚧 Currently in development.
 
-Created by Sylvester with ChatGPT.
+## License
+
+MIT License
